@@ -7,14 +7,20 @@ data/
 wav2vec2/
 EfficientNet/
 
-
 EfficientNetCode/EfficientNet_model.pth
 dataSet_original/
 dataSet_wav_1epoch/
 dataSet_wav_2epoch/
 testSet_wav_1epoch/
 testSet_wav_2epoch/
-disease/
+yaseen/
 SVM/
 !/SVM/demo0.py
 dataSet_pic_1epoch/
+output/
+test/
+three_models/
+wav2vec2-base/
+xinan-wav/
+MedViTV2/
+Models/
